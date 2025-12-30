@@ -52,4 +52,4 @@ La catégorie **Jeux** offre des mini-jeux intégrés directement dans le site p
 
 1. Clonez le dépôt :  
 ```bash
-git clone https://github.com/votre-utilisateur/makmus.git
+git clone https://github.com/chrismsmr-celcom/makmus-site-officiel.git
